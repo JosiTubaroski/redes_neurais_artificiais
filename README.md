@@ -1,3 +1,8 @@
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/DataScience/blob/main/README.md">Inteligencia Artificial</a></p>
+</div> 
+
 # Redes Neurais Artificiais
 
 Vamos dividir em 4 partes para ficar bem clara: <b>origem, evolução histórica, como funciona</b>, e <b>por que voltaram com tanta força.</b>
