@@ -62,3 +62,96 @@ Hoje, redes neurais estão por trás de:
 - Tradução automática
 - Carros autônomos
 - ChatGPT (que usa uma arquitetura derivada: o <b>Transformer</b>)
+
+### Como é um neurónio, como ele funciona, como foi descoberto?
+
+O <b>neurônio</b> é a <b>unidade básica do sistema nervoso</b>, o tijolo fundamental de tudo que pensamos, sentimos e fazemos.
+Vamos ver em tres partes:
+
+### 🧩 1. Como é um neurônio
+
+Um neurônio é uma <b>celula altamente especializada</b> para transmitir sinais elétricos e químicos.
+Ele tem uma forma característica - parecida com uma árvore - com três partes principais:
+
+<b>1. Dendritos 🌿</b>
+
+São como "galhos" que recebem sinais de outros neurônios.
+Quanto mais dendritos, mais conexões o neurônio pode fazer.
+
+<b>2. Corpo celular (ou soma) ⚙️</b>
+
+É o "centro de controle", onde fica o <b>núcleo</b> e onde o neurônio processa os sinais recebidos.
+
+<b>3. Axônio ⚡</b>
+
+É um "fio longo" que envia impulsos elétricos para outros neurônios, musculos ou glandulas.
+Na extremidade do axônio estão os <b>terminais sinápticos</b>, que liberam neurotransmissores nas <b>sinapses.</b>
+
+🔹Alguns axônios têm uma <b>bainha de mielina</b>, uma camada que acelera a transmissão dos impulsos elétricos - como um fio revestido por borracha.
+
+### ⚡ 2. Como o neurônio funciona
+
+O neurônio <b>se comunica por impulsos elétricos</b> chamados <b>potenciais de ação</b>.
+
+Funciona assim:
+
+1. Em repouso, o neurônio tem uma carga elétrica negativa em relação ao ambiente externo.
+2. Quando recebe um estímulo suficiente (por exemplo, de outro neurônio), há uma <b>mudança no potencial elétrico da membrana</b>.
+3. Essa mudança dispara um <b>impulso elétrico</b> que corre pelo axônio.
+4. Ao chegar ao final do axônio, o impulso <b>libera neurotransmissores</b> (dopamina, serotonina, acetilcolina etc.).
+5. Esses neurotransmissores atravessam a sinapse e <b>ativam o próximo neurônio</b>.
+
+👉 É como uma rede de bilhetes passando de mão em mão — mas em escala microscópica e em milissegundos.
+
+### 🔬 3. Como o neurônio foi descoberto
+
+A história é fascinante:
+
+- Final do século XIX, os cientistas ainda achavam que o cérebro era uma “massa contínua” de tecido (a teoria reticular de Camillo Golgi).
+- Santiago Ramón y Cajal, um médico espanhol, usou uma técnica de coloração desenvolvida por Golgi (a coloração com nitrato de prata) e, ao observar no microscópio, percebeu que o cérebro era, na verdade, feito de células individuais conectadas, mas separadas — os neurônios.
+- Ele desenhou à mão milhares de neurônios e formulou a Teoria Neuronal:
+
+  o sistema nervoso é formado por unidades discretas (neurônios) que se comunicam entre si por contatos específicos (as sinapses).
+
+Cajal ganhou o <b>Prêmio Nobel de Fisiologia ou Medicina em 1906</b>, compartilhado com o próprio Golgi — ironicamente, o homem cuja técnica ele usou para provar o contrário do que o outro acreditava.
+
+### 💡 Em resumo
+
+- O <b>neurônio</b>é a célula que processa e transmite informação no cérebro.
+- Ele faz isso com sinais elétricos e quimicos
+- E foi graças a Cajal que entendemos que o cérebro é uma rede de bilhões de neurônios interligados — a base tanto da mente quanto da inteligência artificial moderna.
+
+  <img width="484" height="275" alt="image" src="https://github.com/user-attachments/assets/52b2fb73-a427-40bd-8821-66cd261fa88f" />
+
+### Condicionamento pavloviano
+
+🧠 O experimento clássico de Pavlov
+
+1. Pavlov estudava a digestão dos cães.
+
+2. Ele notou que os cães salivavam não só ao ver comida, mas também quando viam o pesquisador ou ouviam sons associados à comida.
+
+3. Então ele decidiu investigar:
+
+- Antes do condicionamento:
+
+   - Comida → salivação (resposta natural)
+
+   - Som do sino → nenhuma reação
+
+- Durante o condicionamento:
+
+   - Som do sino + comida → salivação
+
+- Depois de várias repetições:
+
+   - Som do sino → salivação (mesmo sem comida)
+ 
+### 💭 Aplicações e exemplos modernos
+
+- <b>Publicidade:</b> associar uma marca a emoções positivas (música, pessoas bonitas, momentos felizes).
+
+- <b>Fobias:</b> uma pessoa pode associar um estímulo neutro (como um elevador) a algo negativo (pânico).
+
+- <b>Educação e treino animal:</b> sons ou gestos são associados a comportamentos e recompensas.
+
